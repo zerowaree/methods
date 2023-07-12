@@ -7,4 +7,8 @@ There's a list of all these:
 - Phising tools 🎣
 - Reverse Shell Builders 🖥️
 - Osint !
-https://thumbs.gfycat.com/CostlyQualifiedIsabellineshrike-mobile.mp4
+
+
+
+https://github.com/zerowaree/methods/assets/121771360/19cffa7a-1d8b-4dac-86a2-9f76a03114cf
+
