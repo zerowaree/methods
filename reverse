@@ -1,0 +1,6 @@
+HoaxShell (https://github.com/t3l3machus/hoaxshell):
+-- A very good reverse shell builder
+Netcat (https://nmap.org/ncat/):
+-- Netcat is a command line tool (that is, it does not have a graphical interface and can only be executed from the console) that is used to reestablish TCP and UDP type connections. In addition, it allows you to scan ports, IP addresses, and see which services are active.
+Villain (https://github.com/t3l3machus/Villain):
+-- A powershell reverse shell builder! (you need to obfuscate a little bit to make it FUD)
