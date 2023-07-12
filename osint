@@ -1,0 +1,12 @@
+Maltego:
+-- Maltego focuses on providing a library of transformations for open source data discovery and visualizing that information in a graphical format, suitable for link analysis and data mining.
+Sherlock:
+-- Sherlock allows you to search for accounts on social media using a username.
+Exiftool:
+-- ExifTool is a platform-independent Perl library plus command-line application for reading, writing, and editing metadata in a wide variety of files.
+Google Dorks:
+-- Google Dorks or Dorking, also known as Google Hacking, is a technique that consists of applying Google's advanced search to find specific information on the Internet by filtering the results with operators known as Dorks, which are symbols that specify a condition.
+Breach directory:
+-- BreachDirectory is a website that allows users to search all public data breaches to see if their emails, usernames, passwords, and domains have been compromised. Next, we will see in more detail what this tool consists of.
+Shodan:
+-- Shodan is a useful search engine for computer security auditors, since it allows them to search the Internet for the servers they are auditing or other services, and obtain a lot of information from them that may be useful to them.
